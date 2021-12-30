@@ -1,3 +1,3 @@
 # Recipes
 
-Second text!
+Second text of this project.
